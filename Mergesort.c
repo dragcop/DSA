@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 void mergesort(int A[],int l,int r);
 void merge(int A[],int l,int q,int r);
@@ -70,4 +70,4 @@ void merge(int A[],int l,int q,int r)
         }
     }
 }
-*/
+
